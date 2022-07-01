@@ -20,13 +20,7 @@ public class CrudSpringBootApplication implements CommandLineRunner{
 	
 	@Override
 	public void run(String... args) throws Exception {
-	 /*
-		Estudiante estudiante1 = new Estudiante("Christian","Ramirez","cris20@gmail.com");
-	    repositorio.save(estudiante1);
-	    
-	    Estudiante estudiante2 = new Estudiante("Andre","Carrillo","andrecar20@gmail.com");
-	    repositorio.save(estudiante2);
-	   */ 
+
 	}
 
 }
